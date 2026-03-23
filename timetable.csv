@@ -1,0 +1,70 @@
+section_id,section_name,subject_code,subject_name,teacher_id,teacher_name,room_id,day,start_time,end_time
+SEC01,Section-A,S02,Physics,T02,Ms. Roy,R101,Monday,08:00,08:55
+SEC01,Section-A,S06,English,T06,Ms. Iyer,LT-2,Monday,09:00,09:55
+SEC01,Section-A,S06,English,T06,Ms. Iyer,R101,Monday,09:55,10:50
+SEC01,Section-A,S02,Physics,T02,Ms. Roy,R103,Monday,12:00,13:00
+SEC01,Section-A,S05,Biology,T05,Mr. Verma,R103,Monday,13:00,14:00
+SEC01,Section-A,S01,Mathematics,T01,Dr. Mehta,R101,Tuesday,09:00,10:00
+SEC01,Section-A,S01,Mathematics,T01,Dr. Mehta,LT-1,Tuesday,10:00,11:00
+SEC01,Section-A,S02,Physics,T02,Ms. Roy,LT-5,Tuesday,11:00,12:00
+SEC01,Section-A,S03,Computer Science,T03,Mr. Khan,LT-2,Tuesday,12:00,13:00
+SEC01,Section-A,S03,Computer Science,T03,Mr. Khan,LT-2,Tuesday,13:00,14:00
+SEC01,Section-A,S04,Chemistry,T04,Ms. Sharma,LT-2,Wednesday,10:00,11:00
+SEC01,Section-A,S04,Chemistry,T04,Ms. Sharma,R103,Wednesday,11:00,12:00
+SEC01,Section-A,S05,Biology,T05,Mr. Verma,R101,Wednesday,12:00,13:00
+SEC01,Section-A,S06,English,T06,Ms. Iyer,LT-5,Wednesday,13:00,14:00
+SEC01,Section-A,S02,Physics,T02,Ms. Roy,LT-2,Thursday,10:00,11:00
+SEC01,Section-A,S01,Mathematics,T01,Dr. Mehta,LT-1,Thursday,11:00,12:00
+SEC01,Section-A,S01,Mathematics,T01,Dr. Mehta,LT-2,Thursday,12:00,13:00
+SEC01,Section-A,S04,Chemistry,T04,Ms. Sharma,R103,Thursday,13:00,14:00
+SEC01,Section-A,S05,Biology,T05,Mr. Verma,R103,Friday,09:00,10:00
+SEC01,Section-A,S01,Mathematics,T01,Dr. Mehta,R101,Friday,10:00,11:00
+SEC01,Section-A,S04,Chemistry,T04,Ms. Sharma,LT-5,Friday,11:00,12:00
+SEC01,Section-A,S03,Computer Science,T03,Mr. Khan,LT-2,Friday,12:00,13:00
+SEC01,Section-A,S03,Computer Science,T03,Mr. Khan,LT-2,Friday,13:00,14:00
+SEC02,Section-B,S03,Computer Science,T03,Mr. Khan,R104,Monday,08:00,08:55
+SEC02,Section-B,S03,Computer Science,T03,Mr. Khan,R104,Monday,09:00,09:55
+SEC02,Section-B,S04,Chemistry,T04,Ms. Sharma,R101,Monday,12:00,13:00
+SEC02,Section-B,S04,Chemistry,T04,Ms. Sharma,R102,Monday,13:00,14:00
+SEC02,Section-B,S03,Computer Science,T03,Mr. Khan,R103,Tuesday,09:00,10:00
+SEC02,Section-B,S03,Computer Science,T03,Mr. Khan,R103,Tuesday,10:00,11:00
+SEC02,Section-B,S06,English,T06,Ms. Iyer,R103,Tuesday,11:00,12:00
+SEC02,Section-B,S02,Physics,T02,Ms. Roy,LT-5,Tuesday,12:00,13:00
+SEC02,Section-B,S01,Mathematics,T01,Dr. Mehta,R104,Tuesday,13:00,14:00
+SEC02,Section-B,S01,Mathematics,T01,Dr. Mehta,R103,Wednesday,09:00,10:00
+SEC02,Section-B,S05,Biology,T05,Mr. Verma,R101,Wednesday,10:00,11:00
+SEC02,Section-B,S01,Mathematics,T01,Dr. Mehta,LT-2,Wednesday,11:00,12:00
+SEC02,Section-B,S02,Physics,T02,Ms. Roy,LT-5,Wednesday,12:00,13:00
+SEC02,Section-B,S04,Chemistry,T04,Ms. Sharma,R101,Wednesday,13:00,14:00
+SEC02,Section-B,S04,Chemistry,T04,Ms. Sharma,R103,Thursday,09:00,10:00
+SEC02,Section-B,S05,Biology,T05,Mr. Verma,LT-1,Thursday,10:00,11:00
+SEC02,Section-B,S05,Biology,T05,Mr. Verma,R101,Thursday,12:00,13:00
+SEC02,Section-B,S06,English,T06,Ms. Iyer,R101,Thursday,13:00,14:00
+SEC02,Section-B,S06,English,T06,Ms. Iyer,LT-1,Friday,09:00,10:00
+SEC02,Section-B,S02,Physics,T02,Ms. Roy,LT-2,Friday,10:00,11:00
+SEC02,Section-B,S01,Mathematics,T01,Dr. Mehta,R101,Friday,11:00,12:00
+SEC02,Section-B,S02,Physics,T02,Ms. Roy,LT-1,Friday,12:00,13:00
+SEC02,Section-B,S01,Mathematics,T01,Dr. Mehta,LT-5,Friday,13:00,14:00
+SEC03,Section-C,S06,English,T06,Ms. Iyer,LT-5,Monday,08:00,08:55
+SEC03,Section-C,S04,Chemistry,T04,Ms. Sharma,LT-1,Monday,09:00,09:55
+SEC03,Section-C,S01,Mathematics,T01,Dr. Mehta,LT-1,Monday,09:55,10:50
+SEC03,Section-C,S01,Mathematics,T01,Dr. Mehta,LT-5,Monday,12:00,13:00
+SEC03,Section-C,S04,Chemistry,T04,Ms. Sharma,LT-2,Tuesday,09:00,10:00
+SEC03,Section-C,S06,English,T06,Ms. Iyer,R101,Tuesday,10:00,11:00
+SEC03,Section-C,S04,Chemistry,T04,Ms. Sharma,R103,Tuesday,12:00,13:00
+SEC03,Section-C,S02,Physics,T02,Ms. Roy,R102,Tuesday,13:00,14:00
+SEC03,Section-C,S04,Chemistry,T04,Ms. Sharma,LT-2,Wednesday,09:00,10:00
+SEC03,Section-C,S06,English,T06,Ms. Iyer,R104,Wednesday,10:00,11:00
+SEC03,Section-C,S02,Physics,T02,Ms. Roy,LT-5,Wednesday,11:00,12:00
+SEC03,Section-C,S01,Mathematics,T01,Dr. Mehta,LT-1,Wednesday,12:00,13:00
+SEC03,Section-C,S01,Mathematics,T01,Dr. Mehta,LT-1,Wednesday,13:00,14:00
+SEC03,Section-C,S03,Computer Science,T03,Mr. Khan,R101,Thursday,09:00,10:00
+SEC03,Section-C,S03,Computer Science,T03,Mr. Khan,R101,Thursday,10:00,11:00
+SEC03,Section-C,S02,Physics,T02,Ms. Roy,R104,Thursday,11:00,12:00
+SEC03,Section-C,S02,Physics,T02,Ms. Roy,R102,Thursday,12:00,13:00
+SEC03,Section-C,S01,Mathematics,T01,Dr. Mehta,LT-5,Thursday,13:00,14:00
+SEC03,Section-C,S03,Computer Science,T03,Mr. Khan,LT-5,Friday,09:00,10:00
+SEC03,Section-C,S03,Computer Science,T03,Mr. Khan,LT-5,Friday,10:00,11:00
+SEC03,Section-C,S05,Biology,T05,Mr. Verma,R102,Friday,11:00,12:00
+SEC03,Section-C,S05,Biology,T05,Mr. Verma,LT-5,Friday,12:00,13:00
+SEC03,Section-C,S05,Biology,T05,Mr. Verma,R102,Friday,13:00,14:00

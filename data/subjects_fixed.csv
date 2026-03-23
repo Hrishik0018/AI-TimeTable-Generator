@@ -1,0 +1,153 @@
+subject_code,subject_name,teacher_id,hours_per_week,double_period
+TCS-308_CSE-A,Logic Design and Computer Organization (CSE-A),T001,4,no
+TCS-302_CSE-A,Data Structures with C (CSE-A),T015,4,no
+TCS-307_CSE-A,Object Oriented Programming with C++ (CSE-A),T002,4,no
+TMA-316_CSE-A,Discrete Structures and Combinatorics (CSE-A),T003,4,no
+TOC-301_CSE-A,Probability and Statistics (Audit Course) (CSE-A),T017,2,no
+XCS-301_CSE-A,Career Skills (CSE-A),T006,2,no
+UHV-301_CSE-A,UHV-II (Humanities) (CSE-A),T999,2,no
+PCS-308_CSE-A,Logic Design Lab (CSE-A),T001,2,yes
+PCS-302_CSE-A,Data Structures Lab (CSE-A),T032,2,yes
+PCS-307_CSE-A,OOPS Lab (CSE-A),T023,2,yes
+TCS-308_CSE-B,Logic Design and Computer Organization (CSE-B),T001,4,no
+TCS-302_CSE-B,Data Structures with C (CSE-B),T032,4,no
+TCS-307_CSE-B,Object Oriented Programming with C++ (CSE-B),T002,4,no
+TMA-316_CSE-B,Discrete Structures and Combinatorics (CSE-B),T017,4,no
+TOC-301_CSE-B,Probability and Statistics (Audit Course) (CSE-B),T043,2,no
+XCS-301_CSE-B,Career Skills (CSE-B),T017,2,no
+UHV-301_CSE-B,UHV-II (Humanities) (CSE-B),T999,2,no
+PCS-308_CSE-B,Logic Design Lab (CSE-B),T019,2,yes
+PCS-302_CSE-B,Data Structures Lab (CSE-B),T033,2,yes
+PCS-307_CSE-B,OOPS Lab (CSE-B),T036,2,yes
+TCS-308_CSE-C,Logic Design and Computer Organization (CSE-C),T001,4,no
+TCS-302_CSE-C,Data Structures with C (CSE-C),T034,4,no
+TCS-307_CSE-C,Object Oriented Programming with C++ (CSE-C),T004,4,no
+TMA-316_CSE-C,Discrete Structures and Combinatorics (CSE-C),T018,4,no
+TOC-301_CSE-C,Probability and Statistics (Audit Course) (CSE-C),T017,2,no
+XCS-301_CSE-C,Career Skills (CSE-C),T018,2,no
+UHV-301_CSE-C,UHV-II (Humanities) (CSE-C),T999,2,no
+PCS-308_CSE-C,Logic Design Lab (CSE-C),T020,2,yes
+PCS-302_CSE-C,Data Structures Lab (CSE-C),T016,2,yes
+PCS-307_CSE-C,OOPS Lab (CSE-C),T037,2,yes
+TCS-308_CSE-D,Logic Design and Computer Organization (CSE-D),T001,4,no
+TCS-302_CSE-D,Data Structures with C (CSE-D),T037,4,no
+TCS-307_CSE-D,Object Oriented Programming with C++ (CSE-D),T002,4,no
+TMA-316_CSE-D,Discrete Structures and Combinatorics (CSE-D),T025,4,no
+TOC-301_CSE-D,Probability and Statistics (Audit Course) (CSE-D),T043,2,no
+XCS-301_CSE-D,Career Skills (CSE-D),T025,2,no
+UHV-301_CSE-D,UHV-II (Humanities) (CSE-D),T999,2,no
+PCS-308_CSE-D,Logic Design Lab (CSE-D),T021,2,yes
+PCS-302_CSE-D,Data Structures Lab (CSE-D),T029,2,yes
+PCS-307_CSE-D,OOPS Lab (CSE-D),T034,2,yes
+TCS-308_CSE-E,Logic Design and Computer Organization (CSE-E),T001,4,no
+TCS-302_CSE-E,Data Structures with C (CSE-E),T029,4,no
+TCS-307_CSE-E,Object Oriented Programming with C++ (CSE-E),T006,4,no
+TMA-316_CSE-E,Discrete Structures and Combinatorics (CSE-E),T038,4,no
+TOC-301_CSE-E,Probability and Statistics (Audit Course) (CSE-E),T017,2,no
+XCS-301_CSE-E,Career Skills (CSE-E),T006,2,no
+UHV-301_CSE-E,UHV-II (Humanities) (CSE-E),T999,2,no
+PCS-308_CSE-E,Logic Design Lab (CSE-E),T022,2,yes
+PCS-302_CSE-E,Data Structures Lab (CSE-E),T036,2,yes
+PCS-307_CSE-E,OOPS Lab (CSE-E),T023,2,yes
+TCS-308_CSE-F,Logic Design and Computer Organization (CSE-F),T001,4,no
+TCS-302_CSE-F,Data Structures with C (CSE-F),T036,4,no
+TCS-307_CSE-F,Object Oriented Programming with C++ (CSE-F),T029,4,no
+TMA-316_CSE-F,Discrete Structures and Combinatorics (CSE-F),T043,4,no
+TOC-301_CSE-F,Probability and Statistics (Audit Course) (CSE-F),T043,2,no
+XCS-301_CSE-F,Career Skills (CSE-F),T017,2,no
+UHV-301_CSE-F,UHV-II (Humanities) (CSE-F),T999,2,no
+PCS-308_CSE-F,Logic Design Lab (CSE-F),T041,2,yes
+PCS-302_CSE-F,Data Structures Lab (CSE-F),T032,2,yes
+PCS-307_CSE-F,OOPS Lab (CSE-F),T036,2,yes
+TCS-308_CSE-G,Logic Design and Computer Organization (CSE-G),T001,4,no
+TCS-302_CSE-G,Data Structures with C (CSE-G),T033,4,no
+TCS-307_CSE-G,Object Oriented Programming with C++ (CSE-G),T027,4,no
+TMA-316_CSE-G,Discrete Structures and Combinatorics (CSE-G),T004,4,no
+TOC-301_CSE-G,Probability and Statistics (Audit Course) (CSE-G),T017,2,no
+XCS-301_CSE-G,Career Skills (CSE-G),T018,2,no
+UHV-301_CSE-G,UHV-II (Humanities) (CSE-G),T999,2,no
+PCS-308_CSE-G,Logic Design Lab (CSE-G),T034,2,yes
+PCS-302_CSE-G,Data Structures Lab (CSE-G),T033,2,yes
+PCS-307_CSE-G,OOPS Lab (CSE-G),T037,2,yes
+TCS-308_CSE-H,Logic Design and Computer Organization (CSE-H),T001,4,no
+TCS-302_CSE-H,Data Structures with C (CSE-H),T019,4,no
+TCS-307_CSE-H,Object Oriented Programming with C++ (CSE-H),T037,4,no
+TMA-316_CSE-H,Discrete Structures and Combinatorics (CSE-H),T027,4,no
+TOC-301_CSE-H,Probability and Statistics (Audit Course) (CSE-H),T043,2,no
+XCS-301_CSE-H,Career Skills (CSE-H),T025,2,no
+UHV-301_CSE-H,UHV-II (Humanities) (CSE-H),T999,2,no
+PCS-308_CSE-H,Logic Design Lab (CSE-H),T028,2,yes
+PCS-302_CSE-H,Data Structures Lab (CSE-H),T016,2,yes
+PCS-307_CSE-H,OOPS Lab (CSE-H),T034,2,yes
+TCS-308_CSE-ARQ,Logic Design and Computer Organization (CSE-ARQ),T001,4,no
+TCS-302_CSE-ARQ,Data Structures with C (CSE-ARQ),T001,4,no
+TCS-307_CSE-ARQ,Object Oriented Programming with C++ (CSE-ARQ),T023,4,no
+TMA-316_CSE-ARQ,Discrete Structures and Combinatorics (CSE-ARQ),T041,4,no
+TOC-301_CSE-ARQ,Probability and Statistics (Audit Course) (CSE-ARQ),T017,2,no
+XCS-301_CSE-ARQ,Career Skills (CSE-ARQ),T006,2,no
+UHV-301_CSE-ARQ,UHV-II (Humanities) (CSE-ARQ),T999,2,no
+PCS-308_CSE-ARQ,Logic Design Lab (CSE-ARQ),T001,2,yes
+PCS-302_CSE-ARQ,Data Structures Lab (CSE-ARQ),T029,2,yes
+PCS-307_CSE-ARQ,OOPS Lab (CSE-ARQ),T023,2,yes
+TCS-308_CSE-AI-ML1,Logic Design and Computer Organization (CSE-AI-ML1),T001,4,no
+TCS-302_CSE-AI-ML1,Data Structures with C (CSE-AI-ML1),T012,4,no
+TCS-346_CSE-AI-ML1,Python Programming (CSE-AI-ML1),T012,3,no
+TCS-364_CSE-AI-ML1,Fundamentals of AI & ML (CSE-AI-ML1),T026,3,no
+PCS-308_CSE-AI-ML1,Logic Design Lab (CSE-AI-ML1),T019,2,yes
+PCS-364_CSE-AI-ML1,AI & ML Lab (CSE-AI-ML1),T038,2,yes
+TCS-308_CSE-AI-ML2,Logic Design and Computer Organization (CSE-AI-ML2),T001,4,no
+TCS-302_CSE-AI-ML2,Data Structures with C (CSE-AI-ML2),T012,4,no
+TCS-346_CSE-AI-ML2,Python Programming (CSE-AI-ML2),T012,3,no
+TCS-364_CSE-AI-ML2,Fundamentals of AI & ML (CSE-AI-ML2),T026,3,no
+PCS-308_CSE-AI-ML2,Logic Design Lab (CSE-AI-ML2),T020,2,yes
+PCS-364_CSE-AI-ML2,AI & ML Lab (CSE-AI-ML2),T026,2,yes
+TCS-308_CSE-AI,Logic Design and Computer Organization (CSE-AI),T001,4,no
+TCS-302_CSE-AI,Data Structures with C (CSE-AI),T021,4,no
+TCS-343_CSE-AI,Mathematical Foundations for AI (CSE-AI),T045,3,no
+PCS-302_CSE-AI,Data Structures Lab (CSE-AI),T033,2,yes
+PCS-307_CSE-AI,OOPS Lab (CSE-AI),T034,2,yes
+TCS-308_CSE-AI-DS1,Logic Design and Computer Organization (CSE-AI-DS1),T001,4,no
+TCS-302_CSE-AI-DS1,Data Structures with C (CSE-AI-DS1),T024,4,no
+TCS-343_CSE-AI-DS1,Mathematical Foundations for AI (CSE-AI-DS1),T045,3,no
+PCS-308_CSE-AI-DS1,Logic Design Lab (CSE-AI-DS1),T022,2,yes
+TCS-308_CSE-AI-DS2,Logic Design and Computer Organization (CSE-AI-DS2),T001,4,no
+TCS-302_CSE-AI-DS2,Data Structures with C (CSE-AI-DS2),T024,4,no
+TCS-343_CSE-AI-DS2,Mathematical Foundations for AI (CSE-AI-DS2),T045,3,no
+PCS-308_CSE-AI-DS2,Logic Design Lab (CSE-AI-DS2),T041,2,yes
+TCS-308_CSE-CYBER,Logic Design and Computer Organization (CSE-CYBER),T001,4,no
+TCS-302_CSE-CYBER,Data Structures with C (CSE-CYBER),T023,4,no
+TCS-307_CSE-CYBER,Object Oriented Programming with C++ (CSE-CYBER),T026,4,no
+TMA-316_CSE-CYBER,Discrete Structures and Combinatorics (CSE-CYBER),T020,4,no
+PCS-308_CSE-CYBER,Logic Design Lab (CSE-CYBER),T034,2,yes
+PCS-302_CSE-CYBER,Data Structures Lab (CSE-CYBER),T036,2,yes
+PCS-307_CSE-CYBER,OOPS Lab (CSE-CYBER),T037,2,yes
+CSP-301_CSE-A,SWAYAM/Training/Extra (CSE-A),T999,0,no
+ELECTIVE_CSE-A,Elective (CSE-A),T999,0,no
+CSP-301_CSE-B,SWAYAM/Training/Extra (CSE-B),T999,0,no
+ELECTIVE_CSE-B,Elective (CSE-B),T999,0,no
+CSP-301_CSE-C,SWAYAM/Training/Extra (CSE-C),T999,0,no
+ELECTIVE_CSE-C,Elective (CSE-C),T999,0,no
+CSP-301_CSE-D,SWAYAM/Training/Extra (CSE-D),T999,0,no
+ELECTIVE_CSE-D,Elective (CSE-D),T999,0,no
+CSP-301_CSE-E,SWAYAM/Training/Extra (CSE-E),T999,0,no
+ELECTIVE_CSE-E,Elective (CSE-E),T999,0,no
+CSP-301_CSE-F,SWAYAM/Training/Extra (CSE-F),T999,0,no
+ELECTIVE_CSE-F,Elective (CSE-F),T999,0,no
+CSP-301_CSE-G,SWAYAM/Training/Extra (CSE-G),T999,0,no
+ELECTIVE_CSE-G,Elective (CSE-G),T999,0,no
+CSP-301_CSE-H,SWAYAM/Training/Extra (CSE-H),T999,0,no
+ELECTIVE_CSE-H,Elective (CSE-H),T999,0,no
+CSP-301_CSE-ARQ,SWAYAM/Training/Extra (CSE-ARQ),T999,0,no
+ELECTIVE_CSE-ARQ,Elective (CSE-ARQ),T999,0,no
+CSP-301_CSE-AI-ML1,SWAYAM/Training/Extra (CSE-AI-ML1),T999,0,no
+ELECTIVE_CSE-AI-ML1,Elective (CSE-AI-ML1),T999,0,no
+CSP-301_CSE-AI-ML2,SWAYAM/Training/Extra (CSE-AI-ML2),T999,0,no
+ELECTIVE_CSE-AI-ML2,Elective (CSE-AI-ML2),T999,0,no
+CSP-301_CSE-AI,SWAYAM/Training/Extra (CSE-AI),T999,0,no
+ELECTIVE_CSE-AI,Elective (CSE-AI),T999,0,no
+CSP-301_CSE-AI-DS1,SWAYAM/Training/Extra (CSE-AI-DS1),T999,0,no
+ELECTIVE_CSE-AI-DS1,Elective (CSE-AI-DS1),T999,0,no
+CSP-301_CSE-AI-DS2,SWAYAM/Training/Extra (CSE-AI-DS2),T999,0,no
+ELECTIVE_CSE-AI-DS2,Elective (CSE-AI-DS2),T999,0,no
+CSP-301_CSE-CYBER,SWAYAM/Training/Extra (CSE-CYBER),T999,0,no
+ELECTIVE_CSE-CYBER,Elective (CSE-CYBER),T999,0,no

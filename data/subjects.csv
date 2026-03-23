@@ -1,0 +1,11 @@
+subject_code,subject_name,teacher_id,hours_per_week,double_period
+TCS-308,Logic Design & Computer Organization,T012,4,no
+TCS-302,Data Structures with C,T010,4,yes
+TCS-307,Object Oriented Programming with C++,T011,4,no
+TMA-316,Discrete Structures & Combinatorics,T003,4,no
+TOC-301,Probability & Statistics (Audit),T004,2,no
+XCS-301,Career Skills,T005,2,no
+UHV-301,Universal Human Values,T006,2,no
+PCS-308,Logic Design Lab,T007,2,yes
+PCS-302,Data Structures Lab,T008,2,yes
+PCS-307,OOPS Lab,T009,2,yes

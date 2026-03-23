@@ -1,0 +1,5 @@
+ortools
+pandas
+openpyxl
+customtkinter
+

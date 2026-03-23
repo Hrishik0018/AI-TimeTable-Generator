@@ -1,0 +1,225 @@
+section_id,section_name,subject_code,subject_name,teacher_id,teacher_name,room_id,slot_id,day,start_time,end_time
+CSE-A,CSE-A,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R103,1,Monday,09:00,10:00
+CSE-A,CSE-A,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R101,9,Tuesday,09:00,10:00
+CSE-A,CSE-A,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R201,16,Tuesday,16:00,17:00
+CSE-A,CSE-A,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R205,28,Thursday,12:00,13:00
+CSE-A,CSE-A,TCS-302,Data Structures with C,T010,DS Expert,LAB3,13,Tuesday,13:00,14:00
+CSE-A,CSE-A,TCS-302,Data Structures with C,T010,DS Expert,LAB3,14,Tuesday,14:00,15:00
+CSE-A,CSE-A,TCS-302,Data Structures with C,T010,DS Expert,R104,17,Wednesday,09:00,10:00
+CSE-A,CSE-A,TCS-302,Data Structures with C,T010,DS Expert,R204,18,Wednesday,10:00,11:00
+CSE-A,CSE-A,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R104,30,Thursday,14:00,15:00
+CSE-A,CSE-A,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R201,32,Thursday,16:00,17:00
+CSE-A,CSE-A,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R205,38,Friday,14:00,15:00
+CSE-A,CSE-A,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R205,44,Saturday,12:00,13:00
+CSE-A,CSE-A,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R203,10,Tuesday,10:00,11:00
+CSE-A,CSE-A,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,LAB1,31,Thursday,15:00,16:00
+CSE-A,CSE-A,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R103,45,Saturday,13:00,14:00
+CSE-A,CSE-A,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R201,46,Saturday,14:00,15:00
+CSE-A,CSE-A,TOC-301,Probability & Statistics (Audit),T004,Prof Statistics,R103,22,Wednesday,14:00,15:00
+CSE-A,CSE-A,TOC-301,Probability & Statistics (Audit),T004,Prof Statistics,R105,48,Saturday,16:00,17:00
+CSE-A,CSE-A,XCS-301,Career Skills,T005,Prof Skills,R104,25,Thursday,09:00,10:00
+CSE-A,CSE-A,XCS-301,Career Skills,T005,Prof Skills,LAB3,40,Friday,16:00,17:00
+CSE-A,CSE-A,UHV-301,Universal Human Values,T006,Prof Humanities,LAB2,3,Monday,11:00,12:00
+CSE-A,CSE-A,UHV-301,Universal Human Values,T006,Prof Humanities,R202,5,Monday,13:00,14:00
+CSE-A,CSE-A,PCS-308,Logic Design Lab,T007,Lab Master 1,LAB1,35,Friday,11:00,12:00
+CSE-A,CSE-A,PCS-308,Logic Design Lab,T007,Lab Master 1,LAB1,36,Friday,12:00,13:00
+CSE-A,CSE-A,PCS-302,Data Structures Lab,T008,Lab Master 2,LAB1,42,Saturday,10:00,11:00
+CSE-A,CSE-A,PCS-302,Data Structures Lab,T008,Lab Master 2,LAB2,43,Saturday,11:00,12:00
+CSE-A,CSE-A,PCS-307,OOPS Lab,T009,Lab Master 3,LAB2,23,Wednesday,15:00,16:00
+CSE-A,CSE-A,PCS-307,OOPS Lab,T009,Lab Master 3,LAB1,24,Wednesday,16:00,17:00
+CSE-B,CSE-B,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R105,13,Tuesday,13:00,14:00
+CSE-B,CSE-B,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R203,32,Thursday,16:00,17:00
+CSE-B,CSE-B,TCS-308,Logic Design & Computer Organization,T012,CO Guru,LAB3,43,Saturday,11:00,12:00
+CSE-B,CSE-B,TCS-308,Logic Design & Computer Organization,T012,CO Guru,LAB1,45,Saturday,13:00,14:00
+CSE-B,CSE-B,TCS-302,Data Structures with C,T010,DS Expert,R203,37,Friday,13:00,14:00
+CSE-B,CSE-B,TCS-302,Data Structures with C,T010,DS Expert,R105,38,Friday,14:00,15:00
+CSE-B,CSE-B,TCS-302,Data Structures with C,T010,DS Expert,R202,39,Friday,15:00,16:00
+CSE-B,CSE-B,TCS-302,Data Structures with C,T010,DS Expert,LAB2,47,Saturday,15:00,16:00
+CSE-B,CSE-B,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R201,11,Tuesday,11:00,12:00
+CSE-B,CSE-B,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R202,31,Thursday,15:00,16:00
+CSE-B,CSE-B,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R201,40,Friday,16:00,17:00
+CSE-B,CSE-B,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R204,42,Saturday,10:00,11:00
+CSE-B,CSE-B,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R104,5,Monday,13:00,14:00
+CSE-B,CSE-B,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R101,30,Thursday,14:00,15:00
+CSE-B,CSE-B,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R203,36,Friday,12:00,13:00
+CSE-B,CSE-B,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R203,41,Saturday,09:00,10:00
+CSE-B,CSE-B,TOC-301,Probability & Statistics (Audit),T004,Prof Statistics,R103,33,Friday,09:00,10:00
+CSE-B,CSE-B,TOC-301,Probability & Statistics (Audit),T004,Prof Statistics,R103,44,Saturday,12:00,13:00
+CSE-B,CSE-B,XCS-301,Career Skills,T005,Prof Skills,LAB1,22,Wednesday,14:00,15:00
+CSE-B,CSE-B,XCS-301,Career Skills,T005,Prof Skills,R102,23,Wednesday,15:00,16:00
+CSE-B,CSE-B,UHV-301,Universal Human Values,T006,Prof Humanities,R205,21,Wednesday,13:00,14:00
+CSE-B,CSE-B,UHV-301,Universal Human Values,T006,Prof Humanities,R101,27,Thursday,11:00,12:00
+CSE-B,CSE-B,PCS-308,Logic Design Lab,T007,Lab Master 1,LAB2,25,Thursday,09:00,10:00
+CSE-B,CSE-B,PCS-308,Logic Design Lab,T007,Lab Master 1,LAB3,26,Thursday,10:00,11:00
+CSE-B,CSE-B,PCS-302,Data Structures Lab,T008,Lab Master 2,LAB1,34,Friday,10:00,11:00
+CSE-B,CSE-B,PCS-302,Data Structures Lab,T008,Lab Master 2,LAB2,35,Friday,11:00,12:00
+CSE-B,CSE-B,PCS-307,OOPS Lab,T009,Lab Master 3,LAB3,18,Wednesday,10:00,11:00
+CSE-B,CSE-B,PCS-307,OOPS Lab,T009,Lab Master 3,LAB3,19,Wednesday,11:00,12:00
+CSE-C,CSE-C,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R203,12,Tuesday,12:00,13:00
+CSE-C,CSE-C,TCS-308,Logic Design & Computer Organization,T012,CO Guru,LAB3,22,Wednesday,14:00,15:00
+CSE-C,CSE-C,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R104,24,Wednesday,16:00,17:00
+CSE-C,CSE-C,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R204,31,Thursday,15:00,16:00
+CSE-C,CSE-C,TCS-302,Data Structures with C,T010,DS Expert,R105,33,Friday,09:00,10:00
+CSE-C,CSE-C,TCS-302,Data Structures with C,T010,DS Expert,R205,34,Friday,10:00,11:00
+CSE-C,CSE-C,TCS-302,Data Structures with C,T010,DS Expert,R205,35,Friday,11:00,12:00
+CSE-C,CSE-C,TCS-302,Data Structures with C,T010,DS Expert,LAB1,48,Saturday,16:00,17:00
+CSE-C,CSE-C,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R205,18,Wednesday,10:00,11:00
+CSE-C,CSE-C,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R103,25,Thursday,09:00,10:00
+CSE-C,CSE-C,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R101,37,Friday,13:00,14:00
+CSE-C,CSE-C,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,LAB2,41,Saturday,09:00,10:00
+CSE-C,CSE-C,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R103,16,Tuesday,16:00,17:00
+CSE-C,CSE-C,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R103,19,Wednesday,11:00,12:00
+CSE-C,CSE-C,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,LAB3,32,Thursday,16:00,17:00
+CSE-C,CSE-C,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R203,38,Friday,14:00,15:00
+CSE-C,CSE-C,TOC-301,Probability & Statistics (Audit),T004,Prof Statistics,LAB1,9,Tuesday,09:00,10:00
+CSE-C,CSE-C,TOC-301,Probability & Statistics (Audit),T004,Prof Statistics,R204,46,Saturday,14:00,15:00
+CSE-C,CSE-C,XCS-301,Career Skills,T005,Prof Skills,R203,8,Monday,16:00,17:00
+CSE-C,CSE-C,XCS-301,Career Skills,T005,Prof Skills,R101,26,Thursday,10:00,11:00
+CSE-C,CSE-C,UHV-301,Universal Human Values,T006,Prof Humanities,R103,2,Monday,10:00,11:00
+CSE-C,CSE-C,UHV-301,Universal Human Values,T006,Prof Humanities,R203,28,Thursday,12:00,13:00
+CSE-C,CSE-C,PCS-308,Logic Design Lab,T007,Lab Master 1,LAB3,44,Saturday,12:00,13:00
+CSE-C,CSE-C,PCS-308,Logic Design Lab,T007,Lab Master 1,LAB3,45,Saturday,13:00,14:00
+CSE-C,CSE-C,PCS-302,Data Structures Lab,T008,Lab Master 2,LAB1,6,Monday,14:00,15:00
+CSE-C,CSE-C,PCS-302,Data Structures Lab,T008,Lab Master 2,LAB2,7,Monday,15:00,16:00
+CSE-C,CSE-C,PCS-307,OOPS Lab,T009,Lab Master 3,LAB1,29,Thursday,13:00,14:00
+CSE-C,CSE-C,PCS-307,OOPS Lab,T009,Lab Master 3,LAB1,30,Thursday,14:00,15:00
+CSE-D,CSE-D,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R202,2,Monday,10:00,11:00
+CSE-D,CSE-D,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R101,7,Monday,15:00,16:00
+CSE-D,CSE-D,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R204,14,Tuesday,14:00,15:00
+CSE-D,CSE-D,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R204,41,Saturday,09:00,10:00
+CSE-D,CSE-D,TCS-302,Data Structures with C,T010,DS Expert,R101,3,Monday,11:00,12:00
+CSE-D,CSE-D,TCS-302,Data Structures with C,T010,DS Expert,R105,4,Monday,12:00,13:00
+CSE-D,CSE-D,TCS-302,Data Structures with C,T010,DS Expert,R102,15,Tuesday,15:00,16:00
+CSE-D,CSE-D,TCS-302,Data Structures with C,T010,DS Expert,R203,16,Tuesday,16:00,17:00
+CSE-D,CSE-D,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R205,10,Tuesday,10:00,11:00
+CSE-D,CSE-D,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,LAB3,35,Friday,11:00,12:00
+CSE-D,CSE-D,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R104,36,Friday,12:00,13:00
+CSE-D,CSE-D,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R201,39,Friday,15:00,16:00
+CSE-D,CSE-D,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,LAB2,21,Wednesday,13:00,14:00
+CSE-D,CSE-D,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R105,23,Wednesday,15:00,16:00
+CSE-D,CSE-D,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R202,28,Thursday,12:00,13:00
+CSE-D,CSE-D,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R203,43,Saturday,11:00,12:00
+CSE-D,CSE-D,TOC-301,Probability & Statistics (Audit),T004,Prof Statistics,R205,17,Wednesday,09:00,10:00
+CSE-D,CSE-D,TOC-301,Probability & Statistics (Audit),T004,Prof Statistics,LAB1,37,Friday,13:00,14:00
+CSE-D,CSE-D,XCS-301,Career Skills,T005,Prof Skills,R103,9,Tuesday,09:00,10:00
+CSE-D,CSE-D,XCS-301,Career Skills,T005,Prof Skills,R201,42,Saturday,10:00,11:00
+CSE-D,CSE-D,UHV-301,Universal Human Values,T006,Prof Humanities,R205,22,Wednesday,14:00,15:00
+CSE-D,CSE-D,UHV-301,Universal Human Values,T006,Prof Humanities,R104,48,Saturday,16:00,17:00
+CSE-D,CSE-D,PCS-308,Logic Design Lab,T007,Lab Master 1,LAB1,11,Tuesday,11:00,12:00
+CSE-D,CSE-D,PCS-308,Logic Design Lab,T007,Lab Master 1,LAB3,12,Tuesday,12:00,13:00
+CSE-D,CSE-D,PCS-302,Data Structures Lab,T008,Lab Master 2,LAB2,29,Thursday,13:00,14:00
+CSE-D,CSE-D,PCS-302,Data Structures Lab,T008,Lab Master 2,LAB2,30,Thursday,14:00,15:00
+CSE-D,CSE-D,PCS-307,OOPS Lab,T009,Lab Master 3,LAB2,5,Monday,13:00,14:00
+CSE-D,CSE-D,PCS-307,OOPS Lab,T009,Lab Master 3,LAB2,6,Monday,14:00,15:00
+CSE-E,CSE-E,TCS-308,Logic Design & Computer Organization,T012,CO Guru,LAB2,33,Friday,09:00,10:00
+CSE-E,CSE-E,TCS-308,Logic Design & Computer Organization,T012,CO Guru,LAB3,34,Friday,10:00,11:00
+CSE-E,CSE-E,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R201,38,Friday,14:00,15:00
+CSE-E,CSE-E,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R103,48,Saturday,16:00,17:00
+CSE-E,CSE-E,TCS-302,Data Structures with C,T010,DS Expert,R101,1,Monday,09:00,10:00
+CSE-E,CSE-E,TCS-302,Data Structures with C,T010,DS Expert,R105,29,Thursday,13:00,14:00
+CSE-E,CSE-E,TCS-302,Data Structures with C,T010,DS Expert,LAB3,30,Thursday,14:00,15:00
+CSE-E,CSE-E,TCS-302,Data Structures with C,T010,DS Expert,R101,31,Thursday,15:00,16:00
+CSE-E,CSE-E,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R202,3,Monday,11:00,12:00
+CSE-E,CSE-E,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R103,6,Monday,14:00,15:00
+CSE-E,CSE-E,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R201,22,Wednesday,14:00,15:00
+CSE-E,CSE-E,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R101,24,Wednesday,16:00,17:00
+CSE-E,CSE-E,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R104,8,Monday,16:00,17:00
+CSE-E,CSE-E,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,LAB2,12,Tuesday,12:00,13:00
+CSE-E,CSE-E,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R203,26,Thursday,10:00,11:00
+CSE-E,CSE-E,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,LAB3,37,Friday,13:00,14:00
+CSE-E,CSE-E,TOC-301,Probability & Statistics (Audit),T004,Prof Statistics,R201,7,Monday,15:00,16:00
+CSE-E,CSE-E,TOC-301,Probability & Statistics (Audit),T004,Prof Statistics,R202,14,Tuesday,14:00,15:00
+CSE-E,CSE-E,XCS-301,Career Skills,T005,Prof Skills,R103,13,Tuesday,13:00,14:00
+CSE-E,CSE-E,XCS-301,Career Skills,T005,Prof Skills,R202,41,Saturday,09:00,10:00
+CSE-E,CSE-E,UHV-301,Universal Human Values,T006,Prof Humanities,R201,10,Tuesday,10:00,11:00
+CSE-E,CSE-E,UHV-301,Universal Human Values,T006,Prof Humanities,R102,45,Saturday,13:00,14:00
+CSE-E,CSE-E,PCS-308,Logic Design Lab,T007,Lab Master 1,LAB2,46,Saturday,14:00,15:00
+CSE-E,CSE-E,PCS-308,Logic Design Lab,T007,Lab Master 1,LAB3,47,Saturday,15:00,16:00
+CSE-E,CSE-E,PCS-302,Data Structures Lab,T008,Lab Master 2,LAB2,39,Friday,15:00,16:00
+CSE-E,CSE-E,PCS-302,Data Structures Lab,T008,Lab Master 2,LAB2,40,Friday,16:00,17:00
+CSE-E,CSE-E,PCS-307,OOPS Lab,T009,Lab Master 3,LAB3,20,Wednesday,12:00,13:00
+CSE-E,CSE-E,PCS-307,OOPS Lab,T009,Lab Master 3,LAB1,21,Wednesday,13:00,14:00
+CSE-F,CSE-F,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R105,8,Monday,16:00,17:00
+CSE-F,CSE-F,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R103,18,Wednesday,10:00,11:00
+CSE-F,CSE-F,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R202,21,Wednesday,13:00,14:00
+CSE-F,CSE-F,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R204,36,Friday,12:00,13:00
+CSE-F,CSE-F,TCS-302,Data Structures with C,T010,DS Expert,R103,5,Monday,13:00,14:00
+CSE-F,CSE-F,TCS-302,Data Structures with C,T010,DS Expert,R105,10,Tuesday,10:00,11:00
+CSE-F,CSE-F,TCS-302,Data Structures with C,T010,DS Expert,R203,11,Tuesday,11:00,12:00
+CSE-F,CSE-F,TCS-302,Data Structures with C,T010,DS Expert,R201,12,Tuesday,12:00,13:00
+CSE-F,CSE-F,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,LAB1,14,Tuesday,14:00,15:00
+CSE-F,CSE-F,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R202,16,Tuesday,16:00,17:00
+CSE-F,CSE-F,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R201,34,Friday,10:00,11:00
+CSE-F,CSE-F,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R104,45,Saturday,13:00,14:00
+CSE-F,CSE-F,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R202,4,Monday,12:00,13:00
+CSE-F,CSE-F,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,LAB2,20,Wednesday,12:00,13:00
+CSE-F,CSE-F,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R104,22,Wednesday,14:00,15:00
+CSE-F,CSE-F,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R201,48,Saturday,16:00,17:00
+CSE-F,CSE-F,TOC-301,Probability & Statistics (Audit),T004,Prof Statistics,R202,25,Thursday,09:00,10:00
+CSE-F,CSE-F,TOC-301,Probability & Statistics (Audit),T004,Prof Statistics,R202,43,Saturday,11:00,12:00
+CSE-F,CSE-F,XCS-301,Career Skills,T005,Prof Skills,R102,29,Thursday,13:00,14:00
+CSE-F,CSE-F,XCS-301,Career Skills,T005,Prof Skills,R101,38,Friday,14:00,15:00
+CSE-F,CSE-F,UHV-301,Universal Human Values,T006,Prof Humanities,R204,1,Monday,09:00,10:00
+CSE-F,CSE-F,UHV-301,Universal Human Values,T006,Prof Humanities,R102,19,Wednesday,11:00,12:00
+CSE-F,CSE-F,PCS-308,Logic Design Lab,T007,Lab Master 1,LAB3,2,Monday,10:00,11:00
+CSE-F,CSE-F,PCS-308,Logic Design Lab,T007,Lab Master 1,LAB3,3,Monday,11:00,12:00
+CSE-F,CSE-F,PCS-302,Data Structures Lab,T008,Lab Master 2,LAB3,46,Saturday,14:00,15:00
+CSE-F,CSE-F,PCS-302,Data Structures Lab,T008,Lab Master 2,LAB1,47,Saturday,15:00,16:00
+CSE-F,CSE-F,PCS-307,OOPS Lab,T009,Lab Master 3,LAB3,39,Friday,15:00,16:00
+CSE-F,CSE-F,PCS-307,OOPS Lab,T009,Lab Master 3,LAB1,40,Friday,16:00,17:00
+CSE-G,CSE-G,TCS-308,Logic Design & Computer Organization,T012,CO Guru,LAB2,26,Thursday,10:00,11:00
+CSE-G,CSE-G,TCS-308,Logic Design & Computer Organization,T012,CO Guru,LAB2,27,Thursday,11:00,12:00
+CSE-G,CSE-G,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R205,30,Thursday,14:00,15:00
+CSE-G,CSE-G,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R202,46,Saturday,14:00,15:00
+CSE-G,CSE-G,TCS-302,Data Structures with C,T010,DS Expert,LAB3,21,Wednesday,13:00,14:00
+CSE-G,CSE-G,TCS-302,Data Structures with C,T010,DS Expert,R203,22,Wednesday,14:00,15:00
+CSE-G,CSE-G,TCS-302,Data Structures with C,T010,DS Expert,R103,41,Saturday,09:00,10:00
+CSE-G,CSE-G,TCS-302,Data Structures with C,T010,DS Expert,R101,42,Saturday,10:00,11:00
+CSE-G,CSE-G,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R103,4,Monday,12:00,13:00
+CSE-G,CSE-G,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R102,8,Monday,16:00,17:00
+CSE-G,CSE-G,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R105,17,Wednesday,09:00,10:00
+CSE-G,CSE-G,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R104,23,Wednesday,15:00,16:00
+CSE-G,CSE-G,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R105,24,Wednesday,16:00,17:00
+CSE-G,CSE-G,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R102,39,Friday,15:00,16:00
+CSE-G,CSE-G,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R201,44,Saturday,12:00,13:00
+CSE-G,CSE-G,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R105,47,Saturday,15:00,16:00
+CSE-G,CSE-G,TOC-301,Probability & Statistics (Audit),T004,Prof Statistics,LAB3,11,Tuesday,11:00,12:00
+CSE-G,CSE-G,TOC-301,Probability & Statistics (Audit),T004,Prof Statistics,R101,13,Tuesday,13:00,14:00
+CSE-G,CSE-G,XCS-301,Career Skills,T005,Prof Skills,R203,31,Thursday,15:00,16:00
+CSE-G,CSE-G,XCS-301,Career Skills,T005,Prof Skills,R101,33,Friday,09:00,10:00
+CSE-G,CSE-G,UHV-301,Universal Human Values,T006,Prof Humanities,R101,20,Wednesday,12:00,13:00
+CSE-G,CSE-G,UHV-301,Universal Human Values,T006,Prof Humanities,R202,38,Friday,14:00,15:00
+CSE-G,CSE-G,PCS-308,Logic Design Lab,T007,Lab Master 1,LAB3,6,Monday,14:00,15:00
+CSE-G,CSE-G,PCS-308,Logic Design Lab,T007,Lab Master 1,LAB1,7,Monday,15:00,16:00
+CSE-G,CSE-G,PCS-302,Data Structures Lab,T008,Lab Master 2,LAB2,9,Tuesday,09:00,10:00
+CSE-G,CSE-G,PCS-302,Data Structures Lab,T008,Lab Master 2,LAB2,10,Tuesday,10:00,11:00
+CSE-G,CSE-G,PCS-307,OOPS Lab,T009,Lab Master 3,LAB3,15,Tuesday,15:00,16:00
+CSE-G,CSE-G,PCS-307,OOPS Lab,T009,Lab Master 3,LAB2,16,Tuesday,16:00,17:00
+CSE-H,CSE-H,TCS-308,Logic Design & Computer Organization,T012,CO Guru,LAB1,3,Monday,11:00,12:00
+CSE-H,CSE-H,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R201,4,Monday,12:00,13:00
+CSE-H,CSE-H,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R201,23,Wednesday,15:00,16:00
+CSE-H,CSE-H,TCS-308,Logic Design & Computer Organization,T012,CO Guru,R104,39,Friday,15:00,16:00
+CSE-H,CSE-H,TCS-302,Data Structures with C,T010,DS Expert,R204,7,Monday,15:00,16:00
+CSE-H,CSE-H,TCS-302,Data Structures with C,T010,DS Expert,R202,8,Monday,16:00,17:00
+CSE-H,CSE-H,TCS-302,Data Structures with C,T010,DS Expert,R101,44,Saturday,12:00,13:00
+CSE-H,CSE-H,TCS-302,Data Structures with C,T010,DS Expert,LAB2,45,Saturday,13:00,14:00
+CSE-H,CSE-H,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R104,2,Monday,10:00,11:00
+CSE-H,CSE-H,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R102,5,Monday,13:00,14:00
+CSE-H,CSE-H,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,LAB1,13,Tuesday,13:00,14:00
+CSE-H,CSE-H,TCS-307,Object Oriented Programming with C++,T011,OOPS Guru,R101,43,Saturday,11:00,12:00
+CSE-H,CSE-H,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R102,6,Monday,14:00,15:00
+CSE-H,CSE-H,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R101,25,Thursday,09:00,10:00
+CSE-H,CSE-H,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R204,27,Thursday,11:00,12:00
+CSE-H,CSE-H,TMA-316,Discrete Structures & Combinatorics,T003,Dr Mathematics,R102,40,Friday,16:00,17:00
+CSE-H,CSE-H,TOC-301,Probability & Statistics (Audit),T004,Prof Statistics,R105,26,Thursday,10:00,11:00
+CSE-H,CSE-H,TOC-301,Probability & Statistics (Audit),T004,Prof Statistics,R201,28,Thursday,12:00,13:00
+CSE-H,CSE-H,XCS-301,Career Skills,T005,Prof Skills,R101,14,Tuesday,14:00,15:00
+CSE-H,CSE-H,XCS-301,Career Skills,T005,Prof Skills,LAB2,19,Wednesday,11:00,12:00
+CSE-H,CSE-H,UHV-301,Universal Human Values,T006,Prof Humanities,R204,24,Wednesday,16:00,17:00
+CSE-H,CSE-H,UHV-301,Universal Human Values,T006,Prof Humanities,R103,32,Thursday,16:00,17:00
+CSE-H,CSE-H,PCS-308,Logic Design Lab,T007,Lab Master 1,LAB1,15,Tuesday,15:00,16:00
+CSE-H,CSE-H,PCS-308,Logic Design Lab,T007,Lab Master 1,LAB1,16,Tuesday,16:00,17:00
+CSE-H,CSE-H,PCS-302,Data Structures Lab,T008,Lab Master 2,LAB2,17,Wednesday,09:00,10:00
+CSE-H,CSE-H,PCS-302,Data Structures Lab,T008,Lab Master 2,LAB2,18,Wednesday,10:00,11:00
+CSE-H,CSE-H,PCS-307,OOPS Lab,T009,Lab Master 3,LAB3,33,Friday,09:00,10:00
+CSE-H,CSE-H,PCS-307,OOPS Lab,T009,Lab Master 3,LAB2,34,Friday,10:00,11:00
